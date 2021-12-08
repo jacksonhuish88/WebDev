@@ -1,0 +1,50 @@
+
+
+  .tableauheader{
+    display: inline;
+    float:right
+}
+
+.tableauheaderlink{
+  color:rgb(255, 95, 78); 
+  text-decoration:none  
+}
+
+.tableauheaderlink:hover{
+    color:rgb(226, 52, 33);
+    text-decoration:underline
+}
+
+.maintableau{
+    font-size: 45px;
+    display:inline;
+    float:left;
+    color:black;
+    text-decoration:none
+}
+
+.maintableau:hover{
+    text-decoration:underline
+}
+
+.tableausize{
+    margin-left:15%;
+    margin-right:15%;
+    max-width:66%
+}
+
+.tableaulabels{
+  margin-left:15%;
+  margin-right:15%;
+}
+
+.graphheader{
+  color:rgb(255, 95, 78); 
+  font-weight:bolder;
+  text-decoration:none  
+}
+
+.graphheader:hover{
+    color:rgb(226, 52, 33);
+    text-decoration:underline
+}
